@@ -227,7 +227,7 @@ export default function Home() {
 				width='1500'
 				style={{ border: "1px solid #838383" }}
 			>
-				Your browser does not support the canvas element.
+				
 			</canvas>
 		</div>
 	);
